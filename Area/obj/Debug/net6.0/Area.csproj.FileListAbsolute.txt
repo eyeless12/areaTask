@@ -1,0 +1,12 @@
+/Users/maksimcevycelov/git/Area/Area/bin/Debug/net6.0/Area.deps.json
+/Users/maksimcevycelov/git/Area/Area/bin/Debug/net6.0/Area.dll
+/Users/maksimcevycelov/git/Area/Area/bin/Debug/net6.0/Area.pdb
+/Users/maksimcevycelov/git/Area/Area/obj/Debug/net6.0/Area.csproj.AssemblyReference.cache
+/Users/maksimcevycelov/git/Area/Area/obj/Debug/net6.0/Area.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimcevycelov/git/Area/Area/obj/Debug/net6.0/Area.AssemblyInfoInputs.cache
+/Users/maksimcevycelov/git/Area/Area/obj/Debug/net6.0/Area.AssemblyInfo.cs
+/Users/maksimcevycelov/git/Area/Area/obj/Debug/net6.0/Area.csproj.CoreCompileInputs.cache
+/Users/maksimcevycelov/git/Area/Area/obj/Debug/net6.0/Area.dll
+/Users/maksimcevycelov/git/Area/Area/obj/Debug/net6.0/refint/Area.dll
+/Users/maksimcevycelov/git/Area/Area/obj/Debug/net6.0/Area.pdb
+/Users/maksimcevycelov/git/Area/Area/obj/Debug/net6.0/ref/Area.dll
