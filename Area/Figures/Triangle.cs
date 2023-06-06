@@ -8,15 +8,15 @@ internal class Triangle : Figure
             a <= 0 || b <= 0 || c <= 0)
             throw new ArgumentException("Triangle doesn't exists");
 
-        var sortedSizes = new[] { a, b, c };
-        Array.Sort(sortedSizes);
-        if (Math.Abs(sortedSizes[0] * sortedSizes[0] + sortedSizes[1] * sortedSizes[1] -
-                     sortedSizes[2] * sortedSizes[2]) < 1e-9)
+        var sides = new[] { a, b, c };
+        Array.Sort(sides);
+        if (Math.Abs(sides[0] * sides[0] + sides[1] * sides[1] -
+                     sides[2] * sides[2]) < 1e-9)
             IsRight = true;
 
-        A = sortedSizes[0];
-        B = sortedSizes[1];
-        C = sortedSizes[2];
+        A = sides[0];
+        B = sides[1];
+        C = sides[2];
     }
 
     public Triangle(IReadOnlyList<double> values) : this(values[0], values[1], values[2])
